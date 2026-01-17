@@ -1,13 +1,14 @@
 # Welcome to My Data Analyst Portfolio
 
-Hi, I'm Insight — a Customer Quality Engineer (CQE) with 6+ years in manufacturing and quality processes, transitioning to Data Analysis.
+Hi, I'm Balla Gowtham — a Customer Quality Engineer (CQE) with 6+ years in manufacturing and quality processes, transitioning to Data Analysis.
 
 **Key Skills**  
-- Power BI (2+ years, DataCamp certified, built 3 operational/quality reports)  
-- SQL (PostgreSQL basics — extracting & joining tables)  
-- Python (basics via DataCamp — pandas for data manipulation)  
+- Power BI (3+ years, DataCamp certified, built 9+ operational/quality reports)  
+- SQL (PostgreSQL basics — extracting & joining tables, CTE, OLTP, OLAP)  
+- Python (Intermediate via DataCamp — pandas for data manipulation)  
 - Statistics & Six Sigma (Green Belt, Minitab experience)  
 - Strong communication (customer & stakeholder reporting)
+- Basic knowlege on AWS and Azure cloud services.
 
 **Background**  
 4 years as CQE + 2 years as Project Engineer → leveraging domain knowledge in quality metrics, process improvement, and data-driven decisions.
@@ -18,6 +19,6 @@ Hi, I'm Insight — a Customer Quality Engineer (CQE) with 6+ years in manufactu
 
 Currently upskilling: Passing PL-300 (Microsoft Power BI Data Analyst), advancing SQL & Python.
 
-→ [LinkedIn](your-linkedin-url) | Email: your@email.com
+→ [LinkedIn]([(http://linkedin.com/in/gowtham-c-1b76a829b]) | Email: ballagowthamchandra@gmail.com
 
 Last updated: January 2026
