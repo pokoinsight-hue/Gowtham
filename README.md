@@ -4,7 +4,7 @@ Hi, I'm Balla Gowtham — a Customer Quality Engineer (CQE) with 6+ years in man
 
 **Key Skills**  
 - Power BI (3+ years, DataCamp certified, built 9+ operational/quality reports)  
-- SQL (PostgreSQL basics — extracting & joining tables, CTE, OLTP, OLAP)  
+- SQL (PostgreSQL — extracting & joining tables, CTE, OLTP, OLAP)  
 - Python (Intermediate via DataCamp — pandas for data manipulation)  
 - Statistics & Six Sigma (Green Belt, Minitab experience)  
 - Strong communication (customer & stakeholder reporting)
