@@ -14,6 +14,7 @@ Hi, I'm Balla Gowtham — a Customer Quality Engineer (CQE) with 6+ years in man
 4 years as CQE + 2 years as Project Engineer → leveraging domain knowledge in quality metrics, process improvement, and data-driven decisions.
 
 **Finished Projects**  
+Optimizing Quality Inspection Through Sampling Analysis
 https://github.com/pokoinsight-hue/Product-Quality-Inspection/blob/a40955f31e72a0f94df66e4a9c4e9401d23a5efe/README.md
 
 **Projects** (coming soon — watch this space!)
