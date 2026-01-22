@@ -14,7 +14,9 @@ Hi, I'm Balla Gowtham — a Customer Quality Engineer (CQE) with 6+ years in man
 4 years as CQE + 2 years as Project Engineer → leveraging domain knowledge in quality metrics, process improvement, and data-driven decisions.
 
 **Projects** (coming soon — watch this space!)  
-- Quality Defect Analysis (using Kaggle manufacturing data)  
+- README.md
+
+**Projects** (coming soon — watch this space!)
 - Operational Efficiency Dashboard  
 
 Currently upskilling: Passing PL-300 (Microsoft Power BI Data Analyst), advancing SQL & Python.
