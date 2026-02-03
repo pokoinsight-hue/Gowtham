@@ -3,7 +3,7 @@
 Hi, I'm Balla Gowtham — a Power BI (CQE) Engineer with 6+ years in manufacturing and quality processes.
 
 **Key Skills**  
-- Power BI (3+ years, DataCamp certified, built 9+ operational/quality reports)  
+- Power BI (3+ years, DataCamp certified, built 9+ operational/quality Dashboards)  
 - SQL (PostgreSQL — extracting & joining tables, CTE, OLTP, OLAP)  
 - Python (Intermediate via DataCamp — pandas for data manipulation)  
 - Statistics & Six Sigma (Green Belt, Minitab experience)  
