@@ -11,7 +11,7 @@ Hi, I'm Balla Gowtham — a Power BI Developer with 6+ years in Manufacturing Op
 - Basic knowlege on AWS and Azure cloud services.
 
 **Background**  
-4 years as CQE + 2 years as Project Engineer → leveraging domain knowledge in AWS and Azure Cloud.
+4 years as Data Analyst (Power BI) + 2 years as Project Engineer → leveraging domain knowledge in AWS and Azure Cloud.
 
 **Some of my  Projects Demo:**
 1. Market Mindz Performances
