@@ -1,6 +1,6 @@
 # Welcome to My Data Analyst Portfolio
 
-Hi, I'm Balla Gowtham — a Power BI Developer with 6+ years in manufacturing and quality processes.
+Hi, I'm Balla Gowtham — a Power BI Developer with 6+ years in Manufacturing Operations, Sales and quality management.
 
 **Key Skills**  
 - Power BI (3+ years, DataCamp certified, built 9+ operational/quality Dashboards)  
@@ -18,13 +18,12 @@ Hi, I'm Balla Gowtham — a Power BI Developer with 6+ years in manufacturing an
    [README.md](https://github.com/pokoinsight-hue/Market-Mindz/blob/08bbf1b1560ec0d51f2826ba111cda16e5adbf34/README.md)
    <img width="1330" height="747" alt="image" src="https://github.com/user-attachments/assets/d0752795-4910-4f8c-97c0-bcaee76f33fd" />
 
-   
-
-1. Optimizing Quality Inspection Through Sampling Analysis
-  [README.md](https://github.com/pokoinsight-hue/Product-Quality-Inspection/blob/a40955f31e72a0f94df66e4a9c4e9401d23a5efe/README.md)
-
 2. Sales Performance Report
 [README.md](https://github.com/pokoinsight-hue/Sales-Performance-Profitability-Dashboard/blob/07d236f645e04e186fe1d1d40e0857c710ed1ed5/README.md)
+ 
+3. Optimizing Quality Inspection Through Sampling Analysis
+  [README.md](https://github.com/pokoinsight-hue/Product-Quality-Inspection/blob/a40955f31e72a0f94df66e4a9c4e9401d23a5efe/README.md)
+
 
 **Projects** (coming soon — watch this space!)
 - Operational Efficiency Dashboard.
