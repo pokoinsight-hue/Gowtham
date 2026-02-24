@@ -15,7 +15,7 @@ Hi, I'm Balla Gowtham — a Power BI Developer with 6+ years in manufacturing an
 
 **Some of my  Projects Demo:**
 1. Market Mindz Performances
-   README.md
+   [README.md](https://github.com/pokoinsight-hue/Market-Mindz/blob/08bbf1b1560ec0d51f2826ba111cda16e5adbf34/README.md)
    <img width="1330" height="747" alt="image" src="https://github.com/user-attachments/assets/d0752795-4910-4f8c-97c0-bcaee76f33fd" />
 
    
