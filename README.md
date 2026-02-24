@@ -3,11 +3,11 @@
 Hi, I'm Balla Gowtham — a Power BI Developer with 6+ years in Manufacturing Operations, Sales and quality management.
 
 **Key Skills**  
-- Power BI (3+ years, DataCamp certified, built 9+ operational/quality Dashboards)  
-- SQL (PostgreSQL — extracting & joining tables, CTE, OLTP, OLAP)  
-- Python (Intermediate via DataCamp — pandas for data manipulation)  
+- Power BI (3+ years, DataCamp certified, built 9+ Operational/Quality Dashboards)  
+- SQL (PostgreSQL — Extracting & Joining tables, CTE, OLTP, OLAP)  
+- Python (Intermediate via DataCamp — Pandas for Data manipulation)  
 - Statistics & Six Sigma (Green Belt, Minitab experience)  
-- Strong communication (customer & stakeholder reporting)
+- Strong communication (Customer & Dtakeholder Reporting)
 - Basic knowlege on AWS and Azure cloud services.
 
 **Background**  
