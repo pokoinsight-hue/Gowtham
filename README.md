@@ -1,6 +1,6 @@
 # Welcome to My Data Analyst Portfolio
 
-Hi, I'm Balla Gowtham — a Power BI (CQE) Engineer with 6+ years in manufacturing and quality processes.
+Hi, I'm Balla Gowtham — a Power BI Developer with 6+ years in manufacturing and quality processes.
 
 **Key Skills**  
 - Power BI (3+ years, DataCamp certified, built 9+ operational/quality Dashboards)  
