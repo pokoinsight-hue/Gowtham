@@ -13,7 +13,13 @@ Hi, I'm Balla Gowtham — a Power BI Developer with 6+ years in manufacturing an
 **Background**  
 4 years as CQE + 2 years as Project Engineer → leveraging domain knowledge in AWS and Azure Cloud.
 
-**Some of my  Projects Demo:**  
+**Some of my  Projects Demo:**
+1. Market Mindz Performances
+   README.md
+   <img width="1330" height="747" alt="image" src="https://github.com/user-attachments/assets/d0752795-4910-4f8c-97c0-bcaee76f33fd" />
+
+   
+
 1. Optimizing Quality Inspection Through Sampling Analysis
   [README.md](https://github.com/pokoinsight-hue/Product-Quality-Inspection/blob/a40955f31e72a0f94df66e4a9c4e9401d23a5efe/README.md)
 
