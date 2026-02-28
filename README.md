@@ -1,6 +1,6 @@
 # Welcome to My Data Analyst Portfolio
 
-Hi, I'm Balla Gowtham Chandra — a Power BI Developer with 6+ years in Manufacturing Operations, Sales and quality management.
+Hi, I'm Gowtham — a Power BI Developer with 6+ years in Manufacturing Operations, Sales and quality management.
 
 **Key Skills**  
 - Power BI (3+ years, DataCamp certified, built 9+ Operational/Quality Dashboards)  
