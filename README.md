@@ -3,7 +3,7 @@
 Hi, I'm Gowtham — a Power BI Developer with 6+ years in Manufacturing Operations, Sales and quality management.
 
 **Key Skills**  
-- Power BI (3+ years, DataCamp certified, built 9+ Operational/Quality Dashboards)  
+- Power BI (4+ years, DataCamp certified, built 9+ Operational/Quality Dashboards)  
 - SQL (PostgreSQL — Extracting & Joining tables, CTE, OLTP, OLAP)  
 - Python (Intermediate via DataCamp — Pandas for Data manipulation)  
 - Statistics & Six Sigma (Green Belt, Minitab experience)  
