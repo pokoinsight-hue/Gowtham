@@ -21,8 +21,6 @@ Hi, I'm Gowtham — a Power BI Developer with 6+ years in Manufacturing Operatio
 2. Sales Performance Report
 [README.md](https://github.com/pokoinsight-hue/Sales-Performance-Profitability-Dashboard/blob/07d236f645e04e186fe1d1d40e0857c710ed1ed5/README.md)
  
-3. Optimizing Quality Inspection Through Sampling Analysis
-  [README.md](https://github.com/pokoinsight-hue/Product-Quality-Inspection/blob/a40955f31e72a0f94df66e4a9c4e9401d23a5efe/README.md)
 
 
 **Projects** (coming soon — watch this space!)
