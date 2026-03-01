@@ -1,6 +1,7 @@
 # Welcome to My Data Analyst Portfolio
 
-Hi, I'm Gowtham — a Power BI Developer with 6+ years in Manufacturing Operations, Sales and quality management.
+Hi, I'm Gowtham — `
+Junior BI Developer with 4+ years of hands-on experience designing, building, and optimising Power BI reports and dashboards in a high-volume electronics manufacturing environment. Built production-grade dashboards — connected to live SQL databases processing 7+ million rows — that replaced 2.5 hours of daily manual reporting with a 2-minute refresh, used daily by top management and department heads. Strong track record of collaborating with business stakeholders to understand requirements, translating operational data into clear visual insights, and continuously improving reporting processes for accuracy and automation. Experienced in data quality management, multi-source ETL pipelines, and delivering BI solutions that directly drive business performance decisions. Background in electronics manufacturing provides immediate domain alignment for a globally renowned electronics and entertainment company.`
 
 **Key Skills**  
 - Power BI (4+ years, DataCamp certified, built 9+ Operational/Quality Dashboards)  
