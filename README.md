@@ -19,12 +19,12 @@ BI Developer with 4+ years of hands-on experience designing, building, and optim
    [README.md](https://github.com/pokoinsight-hue/Market-Mindz/blob/08bbf1b1560ec0d51f2826ba111cda16e5adbf34/README.md)
    <img width="1330" height="747" alt="image" src="https://github.com/user-attachments/assets/d0752795-4910-4f8c-97c0-bcaee76f33fd" />
 
-2. Sales Performance Report
-[README.md](https://github.com/pokoinsight-hue/Sales-Performance-Profitability-Dashboard/blob/07d236f645e04e186fe1d1d40e0857c710ed1ed5/README.md)
-
-3. Sales Dashboard
+2. Sales Dashboard
   [README.md](https://github.com/pokoinsight-hue/Kraken_Koffee_sales_Analysis/blob/af08f8efae126dc9de4c1ecc66bec9c4c1fb34aa/README.md) 
    <img width="1117" height="500" alt="image" src="https://github.com/user-attachments/assets/590dff92-6aed-4206-a945-4fd9112175eb" />
+
+3. Sales Performance Report
+[README.md](https://github.com/pokoinsight-hue/Sales-Performance-Profitability-Dashboard/blob/07d236f645e04e186fe1d1d40e0857c710ed1ed5/README.md)
 
 → [LinkedIn]([(http://linkedin.com/in/gowtham-c-1b76a829b]) | Email: ballagowthamchandra@gmail.com
 
