@@ -24,8 +24,8 @@ BI Developer with 4+ years of hands-on experience designing, building, and optim
    <img width="1117" height="500" alt="image" src="https://github.com/user-attachments/assets/590dff92-6aed-4206-a945-4fd9112175eb" />
 
 3. Sales Performance Report
-[README.md](https://github.com/pokoinsight-hue/Sales-Performance-Profitability-Dashboard/blob/07d236f645e04e186fe1d1d40e0857c710ed1ed5/README.md)
-<img width="1736" height="799" alt="image" src="https://github.com/user-attachments/assets/3f923d36-2aa4-4b6f-9c6c-86c5c6b96c92" />
+   [README.md](https://github.com/pokoinsight-hue/Sales-Performance-Profitability-Dashboard/blob/07d236f645e04e186fe1d1d40e0857c710ed1ed5/README.md)
+   <img width="1736" height="799" alt="image" src="https://github.com/user-attachments/assets/3f923d36-2aa4-4b6f-9c6c-86c5c6b96c92" />
 
 → [LinkedIn]([(http://linkedin.com/in/gowtham-c-1b76a829b]) | Email: ballagowthamchandra@gmail.com
 
