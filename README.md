@@ -1,10 +1,10 @@
 # Welcome to My Data Analyst Portfolio
 
 Hi, I'm Gowtham — 
-Junior BI Developer with 4+ years of hands-on experience designing, building, and optimising Power BI reports and dashboards in a high-volume electronics manufacturing environment. Built production-grade dashboards — connected to live SQL databases processing 7+ million rows — that replaced 2.5 hours of daily manual reporting with a 2-minute refresh, used daily by top management and department heads. Strong track record of collaborating with business stakeholders to understand requirements, translating operational data into clear visual insights, and continuously improving reporting processes for accuracy and automation. Experienced in data quality management, multi-source ETL pipelines, and delivering BI solutions that directly drive business performance decisions. Background in electronics manufacturing provides immediate domain alignment for a globally renowned electronics and entertainment company.
+BI Developer with 4+ years of hands-on experience designing, building, and optimising Power BI reports and dashboards as per the business requirments. Built production-grade dashboards — connected to live SQL databases processing millions of rows — that replaced  daily manual reporting with a 2-minute refresh, used daily by top management teams and departmental heads. Strong track record of collaborating with business stakeholders to understand requirements, translating operational data into clear visual insights, and continuously improving reporting processes for accuracy and automation. Experienced in data quality management, multi-source ETL pipelines, and delivering BI solutions that directly drive business performance decisions. 
 
 **Key Skills**  
-- Power BI (4+ years, DataCamp certified, built 9+ Operational/Quality Dashboards)  
+- Microsoft Certified Power BI Data Analyst Associate. 
 - SQL (PostgreSQL — Extracting & Joining tables, CTE, OLTP, OLAP)  
 - Python (Intermediate via DataCamp — Pandas for Data manipulation)  
 - Statistics & Six Sigma (Green Belt, Minitab experience)  
@@ -22,14 +22,8 @@ Junior BI Developer with 4+ years of hands-on experience designing, building, an
 2. Sales Performance Report
 [README.md](https://github.com/pokoinsight-hue/Sales-Performance-Profitability-Dashboard/blob/07d236f645e04e186fe1d1d40e0857c710ed1ed5/README.md)
  
-
-
-**Projects** (coming soon — watch this space!)
-- Operational Efficiency Dashboard.
-- Marketing Sales   
-
-Currently upskilling: Passing PL-300 (Microsoft Power BI Data Analyst), advancing SQL & Python.
+   
 
 → [LinkedIn]([(http://linkedin.com/in/gowtham-c-1b76a829b]) | Email: ballagowthamchandra@gmail.com
 
-Last updated: February 2026
+Last updated: July 2026
