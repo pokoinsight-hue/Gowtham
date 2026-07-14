@@ -24,6 +24,7 @@ BI Developer with 4+ years of hands-on experience designing, building, and optim
 
 3. Sales Dashboard
   [README.md](https://github.com/pokoinsight-hue/Kraken_Koffee_sales_Analysis/blob/af08f8efae126dc9de4c1ecc66bec9c4c1fb34aa/README.md) 
+   <img width="1117" height="500" alt="image" src="https://github.com/user-attachments/assets/590dff92-6aed-4206-a945-4fd9112175eb" />
 
 → [LinkedIn]([(http://linkedin.com/in/gowtham-c-1b76a829b]) | Email: ballagowthamchandra@gmail.com
 
