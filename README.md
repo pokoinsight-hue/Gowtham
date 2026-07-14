@@ -1,7 +1,7 @@
 # Welcome to My Data Analyst Portfolio
 
 Hi, I'm Gowtham — 
-BI Developer with 4+ years of hands-on experience designing, building, and optimising Power BI reports and dashboards as per the business requirments. Built production-grade dashboards — connected to live SQL databases processing millions of rows — that replaced  daily manual reporting with a 2-minute refresh, used daily by top management teams and departmental heads. Strong track record of collaborating with business stakeholders to understand requirements, translating operational data into clear visual insights, and continuously improving reporting processes for accuracy and automation. Experienced in data quality management, multi-source ETL pipelines, and delivering BI solutions that directly drive business performance decisions. 
+As a Microsoft Power BI Certified, BI Developer with 4+ years of hands-on experience designing, building, and optimising Power BI reports and dashboards as per the business requirments. Built production-grade dashboards — connected to live SQL databases processing millions of rows — that replaced  daily manual reporting with a 2-minute refresh, used daily by top management teams and departmental heads. Strong track record of collaborating with business stakeholders to understand requirements, translating operational data into clear visual insights, and continuously improving reporting processes for accuracy and automation. Experienced in data quality management, multi-source ETL pipelines, and delivering BI solutions that directly drive business performance decisions. 
 
 **Key Skills**  
 - Microsoft Certified Power BI Data Analyst Associate. 
