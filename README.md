@@ -21,8 +21,9 @@ BI Developer with 4+ years of hands-on experience designing, building, and optim
 
 2. Sales Performance Report
 [README.md](https://github.com/pokoinsight-hue/Sales-Performance-Profitability-Dashboard/blob/07d236f645e04e186fe1d1d40e0857c710ed1ed5/README.md)
- 
-   
+
+3. Sales Dashboard
+  [README.md](https://github.com/pokoinsight-hue/Kraken_Koffee_sales_Analysis/blob/af08f8efae126dc9de4c1ecc66bec9c4c1fb34aa/README.md) 
 
 → [LinkedIn]([(http://linkedin.com/in/gowtham-c-1b76a829b]) | Email: ballagowthamchandra@gmail.com
 
